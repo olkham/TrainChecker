@@ -11,5 +11,5 @@ pytz==2019.1
 requests==2.33.0
 requests-toolbelt==0.9.1
 six==1.12.0
-urllib3==2.6.3
+urllib3==2.7.0
 zeep==3.4.0
